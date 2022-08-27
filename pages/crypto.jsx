@@ -32,14 +32,14 @@ const crypto = () => {
 Firebase . This app was built using Kotlin and Firebase. This application supports user authenticatio using firebase.Users are able to create a new account using their email address and can then sign in to save coins to a user specific list. This is made possible by creating a firestore cloud storage database at the time of user registration. Another feature of this application is it offers light as well as dark theme. So now you can use DigiManager in whatever theme you like the most. Have a look at your running task, upcoming and completed tasks all in one place. Create a task by pressing the button. DigiManager gives you notification on assigning as well as on completing the task. Then you will be able to achieve your long term goal.
           </p>
           <a
-            href='https://github.com/fireclint/crypto-react-firebase'
+            href='https://github.com/Bhawna1203/DigiManager'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://cryptobase-yt.web.app/'
+            href='https://github.com/Bhawna1203/DigiManager'
             target='_blank'
             rel='noreferrer'
           >

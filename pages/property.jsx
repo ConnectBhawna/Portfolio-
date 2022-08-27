@@ -19,7 +19,7 @@ const property = () => {
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
           <h2 className='py-2'>Writez - A decentralized Blogging Platform</h2>
-          <h3>Next JS , TailwindCSS , SmartPy , Taquito , Beacon SDk , IPFS </h3>
+          <h3>Next JS , TailwindCSS , SmartPy , Taquito , Beacon SDk , IPFS , Flask , MySql </h3>
         </div>
       </div>
 
@@ -45,14 +45,14 @@ const property = () => {
             the ideas of authors with just a few clicks.
           </p>
           <a
-            href='https://gitopia.com/gitopia1qmen3hn5epsztezfykj50yycfpz6marm5fs0y4/TezAsia-Hackathon/tree/master/SUBMISSIONS'
+            href='https://github.com/CrackTez'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://tezasia.com/'
+            href='https://www.writez.xyz/'
             target='_blank'
             rel='noreferrer'
           >
