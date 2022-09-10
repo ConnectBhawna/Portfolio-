@@ -1,5 +1,6 @@
 ## <Portfolio using Next js and Tailwind css🥳☄️>
-
+Have a look at the design part:
+Add picture baad mai 
 First, run the development server:
 
 ```bash
